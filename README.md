@@ -1,4 +1,4 @@
-## Olá, recrutador!
+## Olá, visitante!
 
 Aqui você vai encontrar uma seleção cuidadosa dos meus projetos mais interessantes, aqueles que realmente mostram o que sou capaz. Então, sinta-se à vontade para navegar e descobrir tudo o que há para saber sobre mim!
 
