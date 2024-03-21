@@ -44,10 +44,11 @@ Here are some courses I've completed.
 - [Java Programming I](https://java-programming.mooc.fi/)
 - [Java Programming II](https://java-programming.mooc.fi/)
 - [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials)
+- [Java Spring Professional](https://devsuperior.com.br/curso-java-spring-professional)
 
 Currently watching:
 
-- [Software Engineering: Modeling Software Systems Using UML](https://www.coursera.org/learn/software-engineering-modeling-software-systems-using-uml)
-- [Java Spring Professional](https://devsuperior.com.br/curso-java-spring-professional)
+- [Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)
+
 
 
